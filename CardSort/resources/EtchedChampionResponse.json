@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Etched Champion",
+    "id": "etched-champion",
+    "url": "https://api.deckbrew.com/mtg/cards/etched-champion",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=etched-champion",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "soldier"
+    ],
+    "cmc": 3,
+    "cost": "{3}",
+    "text": "Metalcraft — Etched Champion has protection from all colors as long as you control three or more artifacts.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "rare",
+        "artist": "Igor Kieryluk",
+        "multiverse_id": 397710,
+        "flavor": "Its predecessors were etched with the wisdom of ancients; its own etchings bear warnings of a future fraught with war.",
+        "number": "209",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397710",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397710.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/etched-champion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397710"
+      },
+      {
+        "set": "Scars of Mirrodin",
+        "set_id": "SOM",
+        "watermark": "Mirran",
+        "rarity": "rare",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 215099,
+        "flavor": "Its predecessors were etched with the wisdom of ancients; its own etchings bear warnings of a future fraught with war.",
+        "number": "154",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=215099",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/215099.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+        "store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/etched-champion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/215099"
+      }
+    ]
+  }
+]
