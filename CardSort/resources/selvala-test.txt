@@ -1,0 +1,88 @@
+1	Akroma's Memorial
+1	Alhammarret's Archive
+1	Archangel of Thune
+1	Asceticism
+1	Austere Command
+1	Awakening
+1	Beacon of Immortality
+1	Beast Within
+1	Blighted Woodland
+1	Canopy Vista
+1	Cathars' Crusade
+1	Cavern of Souls
+1	Command Tower
+1	Concordant Crossroads
+1	Craterhoof Behemoth
+1	Cryptolith Rite
+1	Dromoka's Command
+1	Eladamri's Vineyard
+1	Eldritch Evolution
+1	Elesh Norn, Grand Cenobite
+1	Elspeth, Sun's Champion
+1	Elvish Archdruid
+1	Elvish Champion
+1	Elvish Harbinger
+1	Elvish Mystic
+1	Enlightened Tutor
+1	Eternal Witness
+8	Forest
+1	Freyalise, Llanowar's Fury
+1	Gavony Township
+1	Genesis Wave
+1	Ghost Quarter
+1	Grasp of Fate
+1	Heartbeat of Spring
+1	Imperious Perfect
+1	It That Betrays
+1	Krosan Grip
+1	Liege of the Hollows
+1	Llanowar Elves
+1	Lys Alana Huntmaster
+1	Magewright's Stone
+1	Magus of the Vineyard
+1	Mana Reflection
+1	Mikokoro, Center of the Sea
+1	Mirari's Wake
+1	New Frontiers
+1	Nissa, Voice of Zendikar
+1	Nykthos, Shrine to Nyx
+1	Nylea, God of the Hunt
+1	Oracle of Mul Daya
+5	Plains
+1	Praetor's Counsel
+1	Privileged Position
+1	Quarantine Field
+1	Razorverge Thicket
+1	Reclamation Sage
+1	Reliquary Tower
+1	Rhox Faithmender
+1	Riftstone Portal
+1	Seedborn Muse
+1	Selesnya Sanctuary
+1	Selesnya Signet
+1	Selvala's Stampede
+1	Sensei's Divining Top
+1	Skullclamp
+1	Sol Ring
+1	Staff of Domination
+1	Stirring Wildwood
+1	Sunpetal Grove
+1	Swords to Plowshares
+1	Sylvan Library
+1	Temple Garden
+1	Temple of Plenty
+1	Tempt with Discovery
+1	Thought Vessel
+1	Thousand-Year Elixir
+1	True Conviction
+1	Ulamog, the Infinite Gyre
+1	Umbral Mantle
+1	Upwelling
+1	Vorinclex, Voice of Hunger
+1	Well of Lost Dreams
+1	Windswept Heath
+1	Wirewood Lodge
+1	Wood Elves
+1	Wooded Bastion
+1x	Worldly Tutor
+1	Wrath of God

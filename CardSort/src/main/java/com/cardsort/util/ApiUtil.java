@@ -56,7 +56,7 @@ public class ApiUtil {
 	}
 
 
-	public static Card getCardFromResponse(HttpResponse response)
+	protected static Card getCardFromResponse(HttpResponse response)
 	{
 		String responseString = "";
 		try {
